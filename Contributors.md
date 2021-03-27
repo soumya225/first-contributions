@@ -7239,6 +7239,7 @@
 - [Fengqing(Aaron) Liu](https://github.com/rangermix)
 - [Ahmet Ö](https://github.com/oeah2)
 - [dlikas](https://github.com/dlikas)
+- [Soumya Satheesan](https://github.com/soumya225)
 - [Drake Gens](https://github.com/drakegens)
 - [dvlprsh](https://github.com/dvlprsh)
 - [zigsong](https://github.com/zigsong)
